@@ -65,7 +65,7 @@ You don't need a degree or paid courses to start. You need about **1 to 2 hours 
 
 | Day | Task | Resource |
 |---|---|---|
-| 15 | Learn the Windows Event Logs that matter (4624, 4625, 4688) | 🆓 [Microsoft Docs: security auditing](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview) |
+| 15 | Learn the Windows Event Logs that matter (4624, 4625, 4688) | 🆓 [Microsoft Docs: security auditing](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/security-auditing-overview) |
 | 16 | Read Linux logs with `journalctl` and `/var/log/auth.log` | 🆓🧪 Your Ubuntu VM |
 | 17 | Learn what a SIEM is and install Wazuh in your lab | 🆓🧪 [Wazuh quickstart](https://documentation.wazuh.com/current/quickstart.html) |
 | 18 | Trigger some failed logins and watch the alerts fire | 🆓🧪 Wazuh + your VM |
@@ -78,12 +78,12 @@ You don't need a degree or paid courses to start. You need about **1 to 2 hours 
 
 | Day | Task | Resource |
 |---|---|---|
-| 22 | Learn the OWASP Top 10 | 🆓 [OWASP Top 10](https://owasp.org/www-project-top-ten/) |
+| 22 | Learn the OWASP Top 10 | 🆓 [OWASP Top 10](https://owasp.org/projects/top-ten) |
 | 23 | Try SQL injection and XSS legally, in a lab | 🆓🧪 [PortSwigger Web Security Academy](https://portswigger.net/web-security) |
-| 24 | Hack a deliberately vulnerable app | 🆓🧪 [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) |
+| 24 | Hack a deliberately vulnerable app | 🆓🧪 [OWASP Juice Shop](https://owasp.org/projects/juice-shop) |
 | 25 | Learn the cloud shared responsibility model and IAM basics | 🆓 [AWS Skill Builder](https://skillbuilder.aws/) / [Microsoft Learn](https://learn.microsoft.com/en-us/training/) |
 | 26 | Scan a cloud account for misconfigurations | 🆓🧪 [Prowler](https://github.com/prowler-cloud/prowler) (use a free-tier account) |
-| 27 | Learn about AI security: prompt injection and the OWASP Top 10 for LLMs | 🆓 [OWASP GenAI Security Project](https://genai.owasp.org/) · 🧪 [Gandalf](https://gandalf.lakera.ai/) |
+| 27 | Learn about AI security: prompt injection and the OWASP Top 10 for LLMs | 🆓 [OWASP GenAI Security Project](https://genai.owasp.org/) · 🧪 [Lakera Agent Breaker](https://play.lakera.ai/agent-breaker) |
 | 28 | Scan a container image for vulnerabilities | 🆓🧪 [Trivy](https://github.com/aquasecurity/trivy) |
 | 29–30 | **Capstone:** Publish a "30 Days of Cyber" summary repo and choose your path | Your GitHub + LinkedIn |
 
