@@ -73,6 +73,8 @@ You don't need a degree or paid courses to start. You need about **1 to 2 hours 
 | 20 | Investigate your first alert | 🆓🧪 [LetsDefend](https://letsdefend.io/) or [Blue Team Labs Online](https://blueteamlabs.online/) (free tiers) |
 | 21 | **Journal:** Write up your Wazuh lab with screenshots | Your GitHub |
 
+> 🎮 **Optional bonus:** Play your first incident in [Breach City](https://breachcity.io/?utm_source=github&utm_medium=cybersecurity-beginner-roadmap&utm_content=week3), an isometric cyber-incident simulation. 🚧 *Early access · built by the author of this roadmap*
+
 ### Week 4: Web, cloud and AI security basics
 **Outcome:** You understand the OWASP Top 10 and can spot basic cloud misconfigurations.
 
@@ -107,6 +109,21 @@ Focus: Cloud IAM, posture management, Zero Trust and infrastructure as code.
 - Scan infrastructure as code: 🆓🧪 [Checkov](https://github.com/bridgecrewio/checkov)
 - Practise deliberately vulnerable cloud labs: 🆓🧪 [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - 📅 **[See the full week-by-week Cloud & Identity plan →](paths/CLOUD-IDENTITY.md)**
+
+---
+
+## 🎮 Learn by playing
+
+Games are a low-pressure way to build instincts before (and alongside) real tools.
+
+| Game | What you practise | Cost |
+|---|---|---|
+| [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | Linux command line | 🆓 |
+| [KC7 Cyber](https://kc7cyber.com/) | Log investigation with KQL | 🆓 |
+| [Lakera Agent Breaker](https://play.lakera.ai/agent-breaker) | Prompt injection and AI security | 🆓 |
+| [Breach City](https://breachcity.io/?utm_source=github&utm_medium=cybersecurity-beginner-roadmap&utm_content=games) 🚧 | Incident response across a whole city (port, hospital, bank, energy utility and more), covering both OT and IT | Free play + 💲 full access |
+
+> **Disclosure:** Breach City is built by the author of this roadmap and is in early access. It's optional, and no step in this roadmap depends on it.
 
 ---
 
