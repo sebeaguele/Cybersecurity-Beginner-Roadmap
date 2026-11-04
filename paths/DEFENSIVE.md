@@ -129,10 +129,10 @@
 1. **Portfolio README:** Link your lab diagram, `detections/` repo, incident report, forensic timeline and hunt write-up
 2. **CV:** List your home SOC lab as experience, with tools and outcomes (e.g. "Wrote 3 Sigma detections tested with Atomic Red Team")
 3. **Interview prep:** Practise explaining one investigation end to end in 3 minutes
-4. **Optional certifications:** 💲 [BTL1](https://www.securityblue.team/certifications/blue-team-level-1/) (hands-on) or 💲 [SC-200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/) (Microsoft SOC)
+4. **Optional certifications:** 💲 [BTL1 by Centri](https://www.centri.org/certifications/blue-team-level-1/) (hands-on; Centri was formerly Security Blue Team) or 💲 [SC-200](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/) (Microsoft SOC)
 
 ✅ **After Day 90:** you can say "I built a SOC, wrote detections and investigated incidents", and prove it.
 
 ---
 
-⬅️ [Back to the roadmap](../README.md) · ☁️ Cloud & Identity path *(coming soon)*
+⬅️ [Back to the roadmap](../README.md) · ☁️ [Cloud & Identity path](CLOUD-IDENTITY.md)
