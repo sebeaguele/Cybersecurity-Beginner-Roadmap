@@ -106,7 +106,7 @@ Focus: Cloud IAM, posture management, Zero Trust and infrastructure as code.
 - Learn IAM deeply: 🆓 [Here-IAM 6-month plan](https://github.com/sebeaguele/Here-IAM)
 - Scan infrastructure as code: 🆓🧪 [Checkov](https://github.com/bridgecrewio/checkov)
 - Practise deliberately vulnerable cloud labs: 🆓🧪 [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
-- 📅 *A detailed weekly plan is coming soon*
+- 📅 **[See the full week-by-week Cloud & Identity plan →](paths/CLOUD-IDENTITY.md)**
 
 ---
 
@@ -119,7 +119,7 @@ Certifications help you get past HR filters, but **projects get you hired**. Do 
 | ISC2 Certified in Cybersecurity (CC) | Absolute beginners | ISC2 has offered free training and exam vouchers, so check their site for current offers |
 | Google Cybersecurity Certificate | Career switchers | Self-paced, beginner-friendly |
 | CompTIA Security+ | First security job | Widely requested in job ads 💲 |
-| Blue Team Level 1 (BTL1) | SOC / defensive | Very hands-on 💲 |
+| Blue Team Level 1 (BTL1) | SOC / defensive | Very hands-on; offered by Centri, formerly Security Blue Team 💲 |
 | Microsoft SC-200 | SOC on Microsoft stack | KQL, Sentinel, Defender 💲 |
 
 ---
