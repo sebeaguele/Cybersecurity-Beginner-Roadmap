@@ -99,7 +99,7 @@ Focus: SIEM, detection rules, incident response and threat hunting.
 - Learn a query language: 🆓 [KQL on Microsoft Learn](https://learn.microsoft.com/en-us/kusto/query/)
 - Run attacks against your lab and detect them: 🆓🧪 [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - Do endpoint forensics: 🆓🧪 [Velociraptor](https://github.com/Velocidex/velociraptor)
-- 📅 *A detailed weekly plan is coming soon*
+- 📅 **[See the full week-by-week Defensive plan →](paths/DEFENSIVE.md)**
 
 ### ☁️ Cloud & Identity path (cloud security engineer, IAM engineer)
 Focus: Cloud IAM, posture management, Zero Trust and infrastructure as code.
