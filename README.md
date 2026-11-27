@@ -24,6 +24,7 @@ You don't need a degree or paid courses to start. You need about **1 to 2 hours 
  Foundations (Days 1–30)  ──►  Pick a path (Days 31–90)  ──►  Prove it (portfolio + cert)
                                  ├─ 🔵 Defensive (SOC, detection, incident response)
                                  └─ ☁️ Cloud & Identity
+ Next level (after Day 90):  🏗️ Security Engineering
 ```
 
 - Every week has **one outcome**. When you can do it, move on.
@@ -111,6 +112,12 @@ Focus: Cloud IAM, posture management, Zero Trust and infrastructure as code.
 - 📅 **[See the full week-by-week Cloud & Identity plan →](paths/CLOUD-IDENTITY.md)**
 
 ---
+
+## 🏗️ Next level: Security Engineering (advanced)
+
+Finished a path? Take one app and secure it end to end: code, identity, cloud, pipeline and detections. 40 hands-on topics in 5 stages.
+
+📅 [See the Security Engineering path →](paths/SECURITY-ENGINEERING.md)
 
 ## 🎮 Learn by playing
 
